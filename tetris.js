@@ -1,5 +1,5 @@
 //set up
-
+import { BLOCK_SIDE_LENGTH } from './constants.js';
 let canvas = document.getElementById("game-canvas")
 let scoreboard = document.getElementById("scoreboard")
 let ctx = canvas.getContext("2d")
