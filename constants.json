@@ -1,0 +1,10 @@
+
+{
+    "constants": {
+      "rotateKey": "w",
+      "moveRightKey": "d",
+      "moveDownKey": "s",
+      "moveLeftKey": "a"
+    }
+  }
+  

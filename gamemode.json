@@ -1,0 +1,8 @@
+
+{
+    "gamemode": {
+      "newGameStateFunction": "newGameState",
+      "fullsendFunction": "fullsend"
+    }
+  }
+  

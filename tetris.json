@@ -1,0 +1,12 @@
+
+{
+    "tetris": {
+      "canvasId": "game-canvas",
+      "scoreboardId": "scoreboard",
+      "blockSideLength": 20,
+      "gameClock": 1000,
+      "scoreWorth": 10
+    }
+  }
+  
+
